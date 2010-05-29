@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GDIRotate">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.suo">
+</Property><Property Name="Date" Value="29 May 2010">
+</Property><Property Name="Time" Value="12:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GDIRotate.sln" Description="File successfully backed up as C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="GDIRotate.suo" Description="File successfully backed up as C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.suo.old">
+</Event><Event ErrorLevel="0" Project="GDIRotate" Source="GDIRotate.vcproj" Description="Converting project file 'C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.vcproj'.">
+</Event><Event ErrorLevel="1" Project="GDIRotate" Source="GDIRotate.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="GDIRotate" Source="GDIRotate.vcproj" Description="MSB8012: $(TargetPath) ('C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\.\Debug\GDIRotate.exe') does not match the Linker's OutputFile property value '.\Debug/GDIRotate.exe' ('C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Debug/GDIRotate.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="GDIRotate" Source="GDIRotate.vcproj" Description="MSB8012: $(TargetPath) ('C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\.\Release\GDIRotate.exe') does not match the Linker's OutputFile property value '.\Release/GDIRotate.exe' ('C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Release/GDIRotate.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="GDIRotate" Source="GDIRotate.vcproj" Description="Done converting to new project file 'C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\GDIRotate.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="GDIRotate" Source="GDIRotate.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GDIRotate.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GDIRotate.sln" Description="Converted">
+</Event></UpgradeLog>

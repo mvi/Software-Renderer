@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.05.2010 02:23:24
+
+newmtl turret_phong
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3000 0.4000 0.3000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Debug\turret_alt_diff_tex_small.tga
+	map_Kd C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Debug\turret_alt_diff_tex_small.tga
+
+newmtl engine_phong
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.3000 0.4000 0.3000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Debug\engine_diff_tex_small.tga
+	map_Kd C:\Documents and Settings\Administrator\My Documents\Projects\GDIRotate_src\Debug\engine_diff_tex_small.tga
